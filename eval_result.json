@@ -2,43 +2,43 @@
   "exercises": [
     {
       "name": "exercise00",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise01",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise02",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise03",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise04",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise05",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise06",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise07",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise08",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise09",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise10",
@@ -139,8 +139,8 @@
   ],
   "statistics": {
     "total_exercations": 34,
-    "total_succeeds": 0,
-    "total_failures": 34,
-    "total_time": 23
+    "total_succeeds": 10,
+    "total_failures": 24,
+    "total_time": 22
   }
 }
